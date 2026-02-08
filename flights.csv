@@ -1,0 +1,3 @@
+flight_id,flight_number,origin,destination,price,date,departure_time,duration,airline
+8b813ab4-6b95-49f6-9c57-0f6f2abd96c0,MS1546,Cairo,Paris,500.0,2025-12-30,10:04:00,14:00:00,Egypt Airline
+43fbcac9-5dc1-4df7-8d00-62bc53293b5b,fi1234,,makka,70000.0,2026-01-01,23:15:00,23:45:00,EGYPT
